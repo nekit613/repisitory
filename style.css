@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(108, 216, 216);
+}
+header img {
+    border: 10px solid rgb(108, 216, 216);
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+footer {
+    background-color: pink;
+}
+
+footer p {
+    background-color: white;
+    border: 10px solid pink;
+}
+
+p img {
+    background-color: greenyellow;
+    border-right: 1000px solid greenyellow;
+    border-left: 10px solid greenyellow;
+    border-top: 10px solid greenyellow;
+}
+
+.h2 {
+    color: blue;
+}
+
+.kak {
+    color: blue;
+}
+
+.a {
+    text-decoration: none;
+    border: 2px solid blue;
+    padding: 5px;
+}
+
+.optom {
+    color: blue;
+}
+
+.o {
+    color: blue;
+}
+
+.naverh {
+    text-decoration: none;
+    border: 2px solid blue;
+    padding: 5px;
+}
